@@ -1,4 +1,4 @@
-[![Static Badge](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=ubuntu&logoColor=27A0D9)](https://www.litecraft.site)
+[![Static Badge](https://img.shields.io/badge/-LITECRAFT_ADMIN-090909?style=for-the-badge&logo=ubuntu&logoColor=27A0D9)](https://www.litecraft.site)
 
 
 
