@@ -1,7 +1,7 @@
 ### Advancement:
 [![Static Badge](https://img.shields.io/badge/-LITECRAFT_ADMIN-090909?style=for-the-badge&logo=ubuntu&logoColor=27A0D9)](https://www.litecraft.site)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![JavaScript](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=pyhon&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/nkokovkin)
