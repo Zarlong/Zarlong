@@ -2,7 +2,7 @@
 [![Static Badge](https://img.shields.io/badge/-LITECRAFT_ADMIN-090909?style=for-the-badge&logo=ubuntu&logoColor=27A0D9)](https://www.litecraft.site)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=3776AB)
-![DS](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord&logoColor=5865F2)
+[![DS](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord&logoColor=5865F2)](https;//www.discord.litecraft.site)
 ![DS](https://img.shields.io/badge/-System_admin-090909?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 ### Socials:
